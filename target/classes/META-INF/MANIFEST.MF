@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FinalProjectVTube
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: com.vtube
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/FinalProjectVTube
+Created-By: Maven Integration for Eclipse
+
